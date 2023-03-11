@@ -1,0 +1,2 @@
+# CatMafia-Token-Nuker
+uwu
