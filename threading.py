@@ -137,7 +137,7 @@ def tinfouwu(token):
 
 def cum():
   
-    dadylotus = input(f"""{Fore.RED}
+    daddylotus = input(f"""{Fore.RED}
 		
       ██╗   ██╗██╗    ██╗██╗   ██╗
       ██║   ██║██║    ██║██║   ██║
@@ -152,9 +152,9 @@ def cum():
 ║ {Fore.MAGENTA}[1] Nuke{Fore.RED}           ║   ║ {Fore.MAGENTA}[2] Token Info{Fore.RED}     ║       
 ╚════════════════════╝   ╚════════════════════╝
 \n\033[34mUwU :3\x1b[1;38;5;56m >\x1b[1;38;5;56m """)
-    if dadylotus == '1':
+    if daddylotus == '1':
         uwu()
-    elif dadylotus == '2':
+    elif daddylotus == '2':
         tinfouwu(token)
     else:
         print('Incorrect Action, Try Again')
